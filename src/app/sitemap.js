@@ -4,13 +4,6 @@ export default function sitemap() {
   const baseUrl = "https://www.pdfmints.com";
 
   const routes = [
-    "",
-    "/compress-pdf",
-    "/merge-pdf",
-    "/split-pdf",
-    "/pdf-to-jpg",
-    "/jpg-to-pdf",
-    "/protect-pdf",
     "/pdf-to-excel-converter",
     "/excel-to-pdf-online",
     "/pdf-to-ppt-converter",
@@ -22,7 +15,6 @@ export default function sitemap() {
     "/pdf-to-png-converter",
     "/pdf-to-zip-converter",
     "/password-protect-pdf",
-    "/unlock-pdf-online",
     "/remove-pdf-password",
     "/secure-pdf-file",
     "/encrypt-pdf-online",
@@ -46,7 +38,6 @@ export default function sitemap() {
     "/compress-pdf-online",
     "/convert-pdf-to-word",
     "/word-to-pdf-converter",
-    "/pdf-to-jpg-converter",
     "/jpg-to-pdf-online",
     "/pdf-compressor-free",
     "/compress-pdf-to-200kb",
@@ -60,13 +51,21 @@ export default function sitemap() {
     "/compress-pdf-for-whatsapp",
     "/reduce-pdf-size-without-losing-quality",
     "/merge-pdf-files",
+    "/merge-pdf-files-online-free",
     "/combine-pdf-online",
     "/join-multiple-pdf-files",
     "/split-pdf-pages",
+    "/split-pdf-pages-online",
     "/extract-pages-from-pdf",
     "/password-protect-pdf",
+    "/password-protect-pdf-online",
     "/unlock-protect-pdf",
+    "/unlock-pdf-online",
     "/lock-pdf-file",
+    "/pdf-to-jpg",
+    "/pdf-to-jpg-converter",
+    "/jpg-to-pdf",
+    "/jpg-to-pdf-converter",
   ];
 
   return routes.map((route) => ({
