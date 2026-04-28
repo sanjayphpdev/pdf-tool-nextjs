@@ -1,5 +1,5 @@
 // app/sitemap.js
-
+import { getAllPosts } from "@/app/lib/blog";
 export default function sitemap() {
   const baseUrl = "https://www.pdfmints.com";
 
@@ -68,10 +68,26 @@ export default function sitemap() {
     "/jpg-to-pdf-converter",
   ];
 
-  return routes.map((route) => ({
+  const staticUrls = routes.map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: "weekly",
     priority: route === "" ? 1 : 0.8,
   }));
+
+  // Blog pages (dynamic)
+  let blogUrls = [];
+  try {
+    const posts = getAllPosts();
+    blogUrls = posts.map((post) => ({
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+    }));
+  } catch (e) {
+    // ignore if blog not ready yet
+  }
+
+  return [...staticUrls, ...blogUrls];
 }

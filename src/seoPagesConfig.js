@@ -531,32 +531,7 @@ const seoPages = [
     h1: "Compress PDF to 100KB Online Free",
     useCase:
       "Ideal for job applications, government forms, and portals that require strict file size limits like 100KB uploads.",
-    content: `
-Compressing a PDF to 100KB is often required for job applications, government forms, and online submissions with strict file size limits. Our free online tool helps you reduce PDF file size to 100KB quickly and efficiently without installing any software.
 
-Whether you are uploading documents to job portals, submitting forms for exams, or sending files via email, reducing the file size ensures faster uploads and fewer rejections. This tool uses smart compression techniques to reduce file size while maintaining readable quality.
-
-### How to Compress PDF to 100KB
-1. Upload your PDF file.
-2. Click on the compress button.
-3. The tool will automatically reduce the file size.
-4. Download your compressed PDF instantly.
-
-### Why Use This Tool?
-- Completely free and easy to use  
-- No registration or login required  
-- Fast and secure processing  
-- Works on mobile and desktop  
-- Maintains document readability  
-
-### When Do You Need 100KB PDF?
-- Job application portals with strict limits  
-- Government exam forms (SSC, UPSC, etc.)  
-- Email attachments with size restrictions  
-- Online document uploads  
-
-Please note that exact 100KB size may not always be possible depending on the original file content, but our tool gets as close as possible while maintaining quality.
-  `,
     faq: [
       [
         "Can I compress PDF to exactly 100KB?",
@@ -733,32 +708,7 @@ Please note that exact 100KB size may not always be possible depending on the or
     h1: "Split PDF Pages Online Free",
     useCase:
       "Perfect for extracting specific pages from large PDF files, sharing selected pages, or dividing documents for assignments, reports, and submissions.",
-    content: `
-Splitting PDF pages is useful when you want to extract specific pages or divide a large document into smaller files. Our free online tool allows you to split PDF files quickly and efficiently without installing any software.
 
-Whether you need to separate pages for sharing, remove unwanted sections, or organize documents, this tool makes the process simple and fast. It preserves the original quality and formatting of your PDF files.
-
-### How to Split PDF Pages
-1. Upload your PDF file.
-2. Select the pages you want to extract or split.
-3. Choose your preferred output (single pages or multiple files).
-4. Click the split button and download your files.
-
-### Why Use Our PDF Splitter?
-- 100% free and easy to use  
-- No signup or installation required  
-- Fast and secure processing  
-- Works on all devices  
-- Maintains original document quality  
-
-### Common Use Cases
-- Extract specific pages for sharing  
-- Remove unwanted pages from a document  
-- Split assignments or reports  
-- Organize scanned documents  
-
-This tool helps you manage PDF documents more efficiently and saves time when handling large files.
-  `,
     faq: [
       [
         "Can I split specific pages from a PDF?",
@@ -819,32 +769,7 @@ This tool helps you manage PDF documents more efficiently and saves time when ha
     h1: "Password Protect PDF Online Free",
     useCase:
       "Ideal for protecting confidential documents like bank statements, legal files, personal records, and business reports before sharing or uploading.",
-    content: `
-Password protecting a PDF file is essential when you want to secure sensitive information from unauthorized access. Our free online tool allows you to add a strong password to your PDF documents quickly and securely without installing any software.
 
-Whether you are sharing financial documents, legal contracts, or personal records, adding a password ensures that only authorized users can open and view the file. This tool uses strong encryption to keep your data safe.
-
-### How to Password Protect a PDF
-1. Upload your PDF file.
-2. Enter your desired password.
-3. Click on the protect button.
-4. Download your secured PDF instantly.
-
-### Why Use This Tool?
-- 100% free and easy to use  
-- Strong encryption for security  
-- No registration required  
-- Fast processing  
-- Works on mobile and desktop  
-
-### When Should You Protect a PDF?
-- Sharing confidential business documents  
-- Sending personal or financial records  
-- Uploading sensitive files online  
-- Protecting legal agreements  
-
-Adding a password to your PDF ensures privacy and prevents unauthorized access, making it a must-have step for secure document handling.
-  `,
     faq: [
       [
         "Is the encryption strong enough for sensitive files?",
@@ -894,32 +819,7 @@ Adding a password to your PDF ensures privacy and prevents unauthorized access, 
     h1: "Unlock PDF Online Free",
     useCase:
       "Useful for accessing password-protected PDFs when you already know the password and want to remove restrictions for easy viewing, editing, or sharing.",
-    content: `
-Unlocking a PDF file allows you to remove password protection and access its content freely. Our free online tool helps you unlock PDF files quickly and securely using the correct password.
 
-If you have a password-protected PDF and want to remove restrictions for editing, printing, or sharing, this tool makes the process simple. It ensures that only authorized users can unlock the file while maintaining document integrity.
-
-### How to Unlock a PDF
-1. Upload your password-protected PDF file.
-2. Enter the correct password.
-3. Click on the unlock button.
-4. Download your unlocked PDF instantly.
-
-### Why Use This Tool?
-- 100% free and easy to use  
-- No installation required  
-- Fast and secure processing  
-- Works on all devices  
-- Maintains original document quality  
-
-### When Do You Need to Unlock a PDF?
-- Removing restrictions for editing or printing  
-- Accessing old password-protected files  
-- Sharing documents without password barriers  
-- Simplifying document workflows  
-
-Please note that you must know the correct password to unlock a PDF file. This tool does not bypass security without authorization.
-  `,
     faq: [
       [
         "Do I need to know the password to unlock a PDF?",
@@ -981,32 +881,7 @@ Please note that you must know the correct password to unlock a PDF file. This t
     h1: "Convert PDF to JPG Online Free",
     useCase:
       "Ideal for converting PDF documents into images for presentations, sharing on social media, uploading to websites, or extracting visual content.",
-    content: `
-Converting PDF files to JPG images is useful when you want to extract visual content or share documents in image format. Our free online tool allows you to convert PDF pages into high-quality JPG images quickly and securely.
 
-Whether you need images for presentations, websites, or social media, converting PDF to JPG makes it easier to use and share content. Each page of your PDF can be converted into a separate image while maintaining clarity and detail.
-
-### How to Convert PDF to JPG
-1. Upload your PDF file.
-2. Choose image quality (if available).
-3. Click on the convert button.
-4. Download your JPG images instantly.
-
-### Why Use This Tool?
-- 100% free and easy to use  
-- No registration or installation required  
-- High-quality image output  
-- Fast and secure processing  
-- Works on all devices  
-
-### Common Use Cases
-- Extract images from PDF documents  
-- Convert reports into shareable images  
-- Upload document pages as images  
-- Use PDF content in presentations  
-
-This tool ensures that your images retain maximum quality while making them easy to use across different platforms.
-  `,
     faq: [
       [
         "What quality will the JPG images have?",
@@ -1053,32 +928,7 @@ This tool ensures that your images retain maximum quality while making them easy
     h1: "Convert JPG to PDF Online Free",
     useCase:
       "Perfect for creating PDF documents from images such as scanned documents, photos, ID proofs, assignments, and reports.",
-    content: `
-Converting JPG images to PDF is useful when you want to combine multiple images into a single document for easy sharing and storage. Our free online tool allows you to convert JPG to PDF quickly and securely without installing any software.
 
-Whether you are uploading documents for job applications, submitting assignments, or organizing scanned files, converting images into a PDF helps maintain structure and improves readability.
-
-### How to Convert JPG to PDF
-1. Upload one or multiple JPG images.
-2. Arrange them in your preferred order.
-3. Click on the convert button.
-4. Download your PDF file instantly.
-
-### Why Use This Tool?
-- 100% free and easy to use  
-- No registration or installation required  
-- Combine multiple images into one PDF  
-- Fast and secure processing  
-- Works on mobile and desktop devices  
-
-### Common Use Cases
-- Convert scanned documents into PDF  
-- Create PDF from ID proofs or certificates  
-- Submit assignments and reports  
-- Share multiple images in one file  
-
-This tool ensures that your images are properly aligned and converted into a high-quality PDF file for easy sharing and storage.
-  `,
     faq: [
       [
         "Can I convert multiple JPG images into one PDF?",
